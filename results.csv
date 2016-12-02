@@ -1,0 +1,7 @@
+"","code","airline.twitter","pos.count","neg.count","all.count","score.twitter","airline.acsi","score.acsi"
+"1","AA","american airlines",0,0,0,NA,"Delta","71"
+"2","DL","delta",0,0,0,NA,"American","66"
+"3","JB","JetBlue",0,0,0,NA,"JetBlue","79"
+"4","SW","southwest airlines",0,0,0,NA,"Southwest","78"
+"5","UN","united",0,0,0,NA,"Frontier","NM"
+"6","US","USAirways",0,0,0,NA,"Continental",""
